@@ -1,0 +1,11 @@
+.peque{
+	width: 20%;
+	height: 100px;
+}
+.contiene{
+	border:2px solid black;
+	width:80%;
+}
+.yellow{ background-color: yellow; }
+.blue{ background-color: blue; }
+.red{ background-color: pink; }
